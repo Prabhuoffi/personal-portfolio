@@ -44,13 +44,13 @@ const Education = () => {
         <div className="mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Global Institute of Engineering and Technology"
-            subTitle="BE-CSE (2020 - Present)"
+            subTitle="BE-CSE (2020 - 2024)"
             result="8.38/10"
             des="In B.E. CSE engineering college life, students tackle challenging coursework, participate in hands-on projects, and engage in extracurricular activities to prepare for careers in technology."
           />
           <ResumeCard
             title="Kaashiv Info Tech"
-            subTitle="Placement Training - (2024 - Present)"
+            subTitle="Placement Training - (2024 - 2024)"
             result="Chennai"
             des="A placement training program equips students with essential skills for job hunting, including resume writing, interview preparation, and professional etiquette, to enhance their employability and secure employment opportunities."
           />
